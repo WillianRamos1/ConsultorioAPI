@@ -1,0 +1,23 @@
+C:\Users\Willian\source\repos\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Consultorio.Domain\bin\Debug\net5.0\Consultorio.Domain.deps.json
+C:\Users\Willian\source\repos\Consultorio.Domain\bin\Debug\net5.0\Consultorio.Domain.dll
+C:\Users\Willian\source\repos\Consultorio.Domain\bin\Debug\net5.0\ref\Consultorio.Domain.dll
+C:\Users\Willian\source\repos\Consultorio.Domain\bin\Debug\net5.0\Consultorio.Domain.pdb
+C:\Users\Willian\source\repos\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.dll
+C:\Users\Willian\source\repos\Consultorio.Domain\obj\Debug\net5.0\ref\Consultorio.Domain.dll
+C:\Users\Willian\source\repos\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.pdb
+C:\Users\Willian\source\repos\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.csproj.AssemblyReference.cache
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\bin\Debug\net5.0\Consultorio.Domain.deps.json
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\bin\Debug\net5.0\Consultorio.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\bin\Debug\net5.0\ref\Consultorio.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\bin\Debug\net5.0\Consultorio.Domain.pdb
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.AssemblyInfoInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.AssemblyInfo.cs
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\obj\Debug\net5.0\ref\Consultorio.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Domain\obj\Debug\net5.0\Consultorio.Domain.pdb

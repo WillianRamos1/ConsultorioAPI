@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vVlzs+jTvVvjCIfsLklYRKi5/SLl9PL6wLYcSUioook0pgLTeLQn/d+WLOk53MHaOTW8iOG5tWuYMEB9L/CLwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Willian\\Documents\\Projetos Back-End\\Consultorio\\Back-End\\Consultorio.Domain\\Consultorio.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Willian\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Willian\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

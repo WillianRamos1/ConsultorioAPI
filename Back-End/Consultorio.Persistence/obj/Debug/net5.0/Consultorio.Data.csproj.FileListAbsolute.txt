@@ -1,0 +1,15 @@
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Data.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Data.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Data.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Data.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\Consultorio.Data.deps.json
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\Consultorio.Data.dll
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\ref\Consultorio.Data.dll
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\Consultorio.Data.pdb
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\Consultorio.Domain.dll
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\Consultorio.Domain.pdb
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Data.csproj.CopyComplete
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Data.dll
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\ref\Consultorio.Data.dll
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Data.pdb

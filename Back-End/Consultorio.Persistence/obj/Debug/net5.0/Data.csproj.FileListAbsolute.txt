@@ -1,0 +1,5 @@
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache

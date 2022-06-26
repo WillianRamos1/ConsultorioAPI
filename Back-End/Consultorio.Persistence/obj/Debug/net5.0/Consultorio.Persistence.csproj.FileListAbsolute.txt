@@ -1,0 +1,30 @@
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\Consultorio.Persistence.deps.json
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\Consultorio.Persistence.dll
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\ref\Consultorio.Persistence.dll
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\Consultorio.Persistence.pdb
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\Consultorio.Domain.dll
+C:\Users\Willian\source\repos\Data\bin\Debug\net5.0\Consultorio.Domain.pdb
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Persistence.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Persistence.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Persistence.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Persistence.csproj.CopyComplete
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Persistence.dll
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\ref\Consultorio.Persistence.dll
+C:\Users\Willian\source\repos\Data\obj\Debug\net5.0\Consultorio.Persistence.pdb
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\bin\Debug\net5.0\Consultorio.Persistence.deps.json
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\bin\Debug\net5.0\Consultorio.Persistence.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\bin\Debug\net5.0\ref\Consultorio.Persistence.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\bin\Debug\net5.0\Consultorio.Persistence.pdb
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\bin\Debug\net5.0\Consultorio.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\bin\Debug\net5.0\Consultorio.Domain.pdb
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\obj\Debug\net5.0\Consultorio.Persistence.csproj.AssemblyReference.cache
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\obj\Debug\net5.0\Consultorio.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\obj\Debug\net5.0\Consultorio.Persistence.AssemblyInfoInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\obj\Debug\net5.0\Consultorio.Persistence.AssemblyInfo.cs
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\obj\Debug\net5.0\Consultorio.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\obj\Debug\net5.0\Consultorio.Persistence.csproj.CopyComplete
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\obj\Debug\net5.0\Consultorio.Persistence.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\obj\Debug\net5.0\ref\Consultorio.Persistence.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Persistence\obj\Debug\net5.0\Consultorio.Persistence.pdb

@@ -1,0 +1,34 @@
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Application.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Application.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Application.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Application.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\Consultorio.Application.deps.json
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\Consultorio.Application.dll
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\ref\Consultorio.Application.dll
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\Consultorio.Application.pdb
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\Consultorio.Domain.dll
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\Consultorio.Persistence.dll
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\Consultorio.Domain.pdb
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\Consultorio.Persistence.pdb
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Application.csproj.CopyComplete
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Application.dll
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\ref\Consultorio.Application.dll
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Application.pdb
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\obj\Debug\net5.0\Consultorio.Application.csproj.AssemblyReference.cache
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\obj\Debug\net5.0\Consultorio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\obj\Debug\net5.0\Consultorio.Application.AssemblyInfoInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\obj\Debug\net5.0\Consultorio.Application.AssemblyInfo.cs
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\obj\Debug\net5.0\Consultorio.Application.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\obj\Debug\net5.0\Consultorio.Application.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\obj\Debug\net5.0\ref\Consultorio.Application.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\obj\Debug\net5.0\Consultorio.Application.pdb
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\bin\Debug\net5.0\Consultorio.Application.deps.json
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\bin\Debug\net5.0\Consultorio.Application.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\bin\Debug\net5.0\ref\Consultorio.Application.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\bin\Debug\net5.0\Consultorio.Application.pdb
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\bin\Debug\net5.0\Consultorio.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\bin\Debug\net5.0\Consultorio.Persistence.dll
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\bin\Debug\net5.0\Consultorio.Domain.pdb
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\bin\Debug\net5.0\Consultorio.Persistence.pdb
+C:\Users\Willian\Documents\Projetos Back-End\Consultorio\Back-End\Consultorio.Application\obj\Debug\net5.0\Consultorio.Application.csproj.CopyComplete

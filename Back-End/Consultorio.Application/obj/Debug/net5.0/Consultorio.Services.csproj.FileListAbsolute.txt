@@ -1,0 +1,12 @@
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\Consultorio.Services.deps.json
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\Consultorio.Services.dll
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\ref\Consultorio.Services.dll
+C:\Users\Willian\source\repos\Consultorio.Services\bin\Debug\net5.0\Consultorio.Services.pdb
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Services.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Services.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Services.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Services.dll
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\ref\Consultorio.Services.dll
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Services.pdb
+C:\Users\Willian\source\repos\Consultorio.Services\obj\Debug\net5.0\Consultorio.Services.csproj.AssemblyReference.cache
